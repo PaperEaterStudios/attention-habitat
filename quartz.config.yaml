@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: attention-habitat.github.io
+  baseUrl: "https://PaperEaterStudios.github.io/attention-habitat/"
   ignorePatterns:
     - private
     - templates
