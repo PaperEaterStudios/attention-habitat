@@ -1,0 +1,8 @@
+[[detentionaire]]
+[[wake up dead man]]
+[[the grand budapest hotel]]
+[[the murder of roger ackroyd]]
+[[the hollow]]
+[[death on the nile]]
+[[sherlock holmes]]
+[[VAULT]]

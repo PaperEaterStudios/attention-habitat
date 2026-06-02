@@ -1,0 +1,5 @@
+[[samurai champloo]]
+[[afro samurai]]
+[[chirin no suzu]]
+[[foxy brown]]
+[[VAULT]]

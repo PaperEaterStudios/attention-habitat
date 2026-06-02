@@ -1,0 +1,5 @@
+[[my name is hope]]
+[[i'm glad my mom died]]
+[[turning japanese]]
+[[black beauty]]
+[[VAULT]]

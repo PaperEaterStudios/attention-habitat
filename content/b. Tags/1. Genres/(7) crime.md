@@ -1,0 +1,8 @@
+[[tokyo swindlers]]
+[[dreaming pachinko]]
+[[the godfather]]
+[[orthros no inu]]
+[[wolfs]]
+[[the instigators]]
+[[Léon]]
+[[VAULT]]
