@@ -1,2 +1,2 @@
 [[wake up dead man]]
-[[VAULT]]
+[[vault]]

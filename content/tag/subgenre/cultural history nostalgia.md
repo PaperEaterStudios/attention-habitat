@@ -1,2 +1,2 @@
 [[butterfly in the sky]]
-[[VAULT]]
+[[vault]]

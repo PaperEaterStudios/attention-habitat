@@ -7,4 +7,4 @@
 [[psychology, theology, and spirituality in christian counseling]]
 [[the restless heart]]
 [[my name is hope]]
-[[VAULT]]
+[[vault]]

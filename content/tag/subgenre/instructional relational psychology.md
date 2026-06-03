@@ -1,2 +1,2 @@
 [[go away come closer]]
-[[VAULT]]
+[[vault]]

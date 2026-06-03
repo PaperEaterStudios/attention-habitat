@@ -1,2 +1,2 @@
 [[the book of eli]]
-[[VAULT]]
+[[vault]]

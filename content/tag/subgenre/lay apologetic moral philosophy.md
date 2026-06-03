@@ -1,2 +1,2 @@
 [[mere christianity]]
-[[VAULT]]
+[[vault]]

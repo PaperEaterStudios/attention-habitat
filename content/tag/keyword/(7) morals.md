@@ -5,4 +5,4 @@
 [[orthros no inu]]
 [[black beauty]]
 [[wake up dead man]]
-[[VAULT]]
+[[vault]]

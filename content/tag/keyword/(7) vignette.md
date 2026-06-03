@@ -5,4 +5,4 @@
 [[the rat catcher]]
 [[poison]]
 [[screwtape proposes a toast]]
-[[VAULT]]
+[[vault]]

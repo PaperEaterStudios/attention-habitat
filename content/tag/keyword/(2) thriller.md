@@ -1,3 +1,3 @@
 [[tokyo swindlers]]
 [[paprika]]
-[[VAULT]]
+[[vault]]

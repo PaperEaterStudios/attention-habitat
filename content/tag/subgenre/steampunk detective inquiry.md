@@ -1,2 +1,2 @@
 [[sherlock holmes]]
-[[VAULT]]
+[[vault]]

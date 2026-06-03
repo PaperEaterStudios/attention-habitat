@@ -1,2 +1,2 @@
 [[a tale of three kings]]
-[[VAULT]]
+[[vault]]

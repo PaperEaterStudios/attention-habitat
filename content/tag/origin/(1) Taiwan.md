@@ -1,2 +1,2 @@
 [[miao miao]]
-[[VAULT]]
+[[vault]]

@@ -1,3 +1,3 @@
 [[dungeons & Dragons]]
 [[the instigators]]
-[[VAULT]]
+[[vault]]

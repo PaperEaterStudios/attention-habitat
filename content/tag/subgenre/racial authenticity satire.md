@@ -1,2 +1,2 @@
 [[american fiction]]
-[[VAULT]]
+[[vault]]

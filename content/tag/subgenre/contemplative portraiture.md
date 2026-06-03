@@ -1,2 +1,2 @@
 [[the familiar stranger]]
-[[VAULT]]
+[[vault]]

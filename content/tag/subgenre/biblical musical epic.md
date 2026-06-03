@@ -1,2 +1,2 @@
 [[the prince of egypt]]
-[[VAULT]]
+[[vault]]

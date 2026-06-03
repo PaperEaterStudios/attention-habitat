@@ -5,4 +5,4 @@
 [[cats don't dance]]
 [[the prince of egypt]]
 [[chicago]]
-[[VAULT]]
+[[vault]]

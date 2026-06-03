@@ -1,2 +1,2 @@
 [[ghost cat anzu]]
-[[VAULT]]
+[[vault]]

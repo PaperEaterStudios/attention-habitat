@@ -1,2 +1,2 @@
 [[dilili in paris]]
-[[VAULT]]
+[[vault]]

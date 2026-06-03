@@ -12,4 +12,4 @@
 [[miao miao]]
 [[still walking]]
 [[what the internet is doing to our brains (the shallows)]]
-[[VAULT]]
+[[vault]]

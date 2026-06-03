@@ -1,3 +1,3 @@
 [[embrace tiger, return to mountain]]
 [[the courage to be disliked]]
-[[VAULT]]
+[[vault]]

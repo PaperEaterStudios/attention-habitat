@@ -1,2 +1,2 @@
 [[Léon]]
-[[VAULT]]
+[[vault]]

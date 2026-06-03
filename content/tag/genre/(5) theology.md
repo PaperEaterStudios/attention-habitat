@@ -3,4 +3,4 @@
 [[god has a name]]
 [[christian beliefs]]
 [[psychology, theology, and spirituality in christian counseling]]
-[[VAULT]]
+[[vault]]

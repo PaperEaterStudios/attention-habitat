@@ -3,4 +3,4 @@
 2025: 13
 
 Total: 32
-[[VAULT]]
+[[vault]]

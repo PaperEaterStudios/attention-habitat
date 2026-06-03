@@ -1,2 +1,2 @@
 [[the rat catcher]]
-[[VAULT]]
+[[vault]]

@@ -1,2 +1,2 @@
 [[the boy with the cuckoo-clock heart]]
-[[VAULT]]
+[[vault]]

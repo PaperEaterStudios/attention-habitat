@@ -1,2 +1,2 @@
 [[the chosen]]
-[[VAULT]]
+[[vault]]

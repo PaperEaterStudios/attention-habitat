@@ -1,2 +1,2 @@
 [[orthros no inu]]
-[[VAULT]]
+[[vault]]

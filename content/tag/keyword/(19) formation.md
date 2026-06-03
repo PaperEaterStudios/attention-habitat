@@ -17,4 +17,4 @@
 [[oseam]]
 [[my name is hope]]
 [[christian beliefs]]
-[[VAULT]]
+[[vault]]

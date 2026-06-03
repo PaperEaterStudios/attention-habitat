@@ -1,2 +1,2 @@
 [[sedmikrasky]]
-[[VAULT]]
+[[vault]]

@@ -1,2 +1,2 @@
 [[disfigured]]
-[[VAULT]]
+[[vault]]

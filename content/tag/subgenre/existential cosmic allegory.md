@@ -1,2 +1,2 @@
 [[the midnight gospel]]
-[[VAULT]]
+[[vault]]

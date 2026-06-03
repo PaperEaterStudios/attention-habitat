@@ -2,4 +2,4 @@
 [[fantastic mr. fox]]
 [[the taste of tea]]
 [[ghost cat anzu]]
-[[VAULT]]
+[[vault]]

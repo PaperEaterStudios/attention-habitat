@@ -1,2 +1,2 @@
 [[the cat returns]]
-[[VAULT]]
+[[vault]]

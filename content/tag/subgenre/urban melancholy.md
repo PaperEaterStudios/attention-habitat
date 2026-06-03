@@ -5,4 +5,4 @@
 [[the night is short, walk on girl]]
 [[tokyo sora]]
 [[chungking express]]
-[[VAULT]]
+[[vault]]

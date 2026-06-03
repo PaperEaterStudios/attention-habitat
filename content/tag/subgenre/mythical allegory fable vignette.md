@@ -1,2 +1,2 @@
 [[poison]]
-[[VAULT]]
+[[vault]]

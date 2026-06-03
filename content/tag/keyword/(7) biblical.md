@@ -5,4 +5,4 @@
 [[mere christianity]]
 [[the chosen]]
 [[the prince of egypt]]
-[[VAULT]]
+[[vault]]

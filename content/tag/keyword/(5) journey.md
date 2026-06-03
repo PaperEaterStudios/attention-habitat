@@ -4,4 +4,4 @@
 [[ghost cat anzu]]
 [[afro samurai]]
 
-[[VAULT]]
+[[vault]]

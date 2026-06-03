@@ -1,2 +1,2 @@
 [[josie and the pussycats]]
-[[VAULT]]
+[[vault]]

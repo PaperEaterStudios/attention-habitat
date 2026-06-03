@@ -7,4 +7,4 @@
 [[chicago]]
 [[josie and the pussycats]]
 [[the family game]]
-[[VAULT]]
+[[vault]]

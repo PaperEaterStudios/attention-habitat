@@ -12,4 +12,4 @@
 [[disfigured]]
 [[how to hold a grudge]]
 [[go away come closer]]
-[[VAULT]]
+[[vault]]

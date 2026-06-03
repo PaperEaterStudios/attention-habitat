@@ -2,4 +2,4 @@
 [[joyeux Noël]]
 [[in this corner of the world]]
 
-[[VAULT]]
+[[vault]]

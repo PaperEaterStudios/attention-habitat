@@ -1,2 +1,2 @@
 [[greener grass]]
-[[VAULT]]
+[[vault]]

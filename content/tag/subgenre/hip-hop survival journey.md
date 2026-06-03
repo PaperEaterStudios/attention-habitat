@@ -1,2 +1,2 @@
 [[samurai champloo]]
-[[VAULT]]
+[[vault]]

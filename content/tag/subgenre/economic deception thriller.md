@@ -1,2 +1,2 @@
 [[tokyo swindlers]]
-[[VAULT]]
+[[vault]]

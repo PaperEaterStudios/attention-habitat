@@ -1,2 +1,2 @@
 [[chirin no suzu]]
-[[VAULT]]
+[[vault]]

@@ -28,4 +28,4 @@
 [[the time masters]]
 [[the midnight gospel]]
 [[in this corner of the world]]
-[[VAULT]]
+[[vault]]

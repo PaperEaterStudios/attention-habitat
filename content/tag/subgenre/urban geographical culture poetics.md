@@ -1,2 +1,2 @@
 [[the chicago neighborhood guidebook]]
-[[VAULT]]
+[[vault]]

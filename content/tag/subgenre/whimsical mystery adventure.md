@@ -1,2 +1,2 @@
 [[the grand budapest hotel]]
-[[VAULT]]
+[[vault]]

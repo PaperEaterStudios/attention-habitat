@@ -5,4 +5,4 @@
 [[wolfs]]
 [[the instigators]]
 [[Léon]]
-[[VAULT]]
+[[vault]]

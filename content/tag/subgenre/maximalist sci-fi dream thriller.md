@@ -1,2 +1,2 @@
 [[paprika]]
-[[VAULT]]
+[[vault]]

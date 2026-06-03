@@ -1,3 +1,3 @@
 [[the hollow]]
 [[detentionaire]]
-[[VAULT]]
+[[vault]]

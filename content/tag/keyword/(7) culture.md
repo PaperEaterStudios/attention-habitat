@@ -5,4 +5,4 @@
 [[hood feminism]]
 [[butterfly in the sky]]
 [[brain droppings]]
-[[VAULT]]
+[[vault]]

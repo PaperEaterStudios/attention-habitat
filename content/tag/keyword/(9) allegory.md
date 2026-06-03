@@ -7,4 +7,4 @@
 [[the fountain]]
 [[the fall]]
 [[the midnight gospel]]
-[[VAULT]]
+[[vault]]

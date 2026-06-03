@@ -1,2 +1,2 @@
 [[turning japanese]]
-[[VAULT]]
+[[vault]]

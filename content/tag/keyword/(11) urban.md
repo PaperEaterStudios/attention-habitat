@@ -9,4 +9,4 @@
 [[breakfast at tiffany's]]
 [[long vacation]]
 [[an american in paris]]
-[[VAULT]]
+[[vault]]

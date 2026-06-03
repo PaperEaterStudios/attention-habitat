@@ -1,2 +1,2 @@
 [[purchasing power]]
-[[VAULT]]
+[[vault]]

@@ -1,2 +1,2 @@
 [[brain droppings]]
-[[VAULT]]
+[[vault]]

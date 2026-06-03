@@ -1,2 +1,2 @@
 [[the family game]]
-[[VAULT]]
+[[vault]]

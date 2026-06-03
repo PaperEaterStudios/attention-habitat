@@ -2,4 +2,4 @@
 [[afro samurai]]
 [[war]]
 [[foxy brown]]
-[[VAULT]]
+[[vault]]

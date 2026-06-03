@@ -22,4 +22,4 @@
 [[in this corner of the world]]
 [[the girl from the other side]]
 [[paprika]]
-[[VAULT]]
+[[vault]]

@@ -3,4 +3,4 @@
 [[god has a name]]
 [[the restless heart]]
 [[psychology, theology, and spirituality in christian counseling]]
-[[VAULT]]
+[[vault]]

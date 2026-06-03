@@ -1,2 +1,2 @@
 [[fantastic mr. fox]]
-[[VAULT]]
+[[vault]]

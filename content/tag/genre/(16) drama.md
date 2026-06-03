@@ -14,4 +14,4 @@
 [[the chosen]]
 [[love 911]]
 [[tokyo sora]]
-[[VAULT]]
+[[vault]]

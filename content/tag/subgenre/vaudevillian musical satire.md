@@ -1,2 +1,2 @@
 [[chicago]]
-[[VAULT]]
+[[vault]]

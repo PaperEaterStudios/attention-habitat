@@ -1,2 +1,2 @@
 [[over the garden wall]]
-[[VAULT]]
+[[vault]]

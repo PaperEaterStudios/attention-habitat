@@ -4,4 +4,4 @@
 [[the rat catcher]]
 [[mister rococo]]
 [[chirin no suzu]]
-[[VAULT]]
+[[vault]]
