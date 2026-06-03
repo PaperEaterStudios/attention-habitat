@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "https://PaperEaterStudios.github.io/attention-habitat"
+  baseUrl: "https://PaperEaterStudios.github.io/attention-habitat/"
   ignorePatterns:
     - private
     - templates
@@ -70,7 +70,7 @@ plugins:
       position: right
       priority: 30
   - source: github:quartz-community/crawl-links
-    enabled: false
+    enabled: true
     options:
       markdownLinkResolution: shortest
     order: 60
