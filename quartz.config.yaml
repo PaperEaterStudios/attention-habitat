@@ -2,7 +2,7 @@
 configuration:
   pageTitle: attention habitat 1.0
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: false
   analytics:
     provider: plausible
@@ -168,7 +168,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
