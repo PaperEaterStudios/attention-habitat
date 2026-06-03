@@ -1,4 +1,3 @@
-[[vault]](https://papereaterstudios.github.io/attention-habitat/vault)
 <p>
 this Quartz site was built from my personal Obsidian vault, which I created as a way to map the connections between my consumed pieces of media and their subsequent datapoints.
 
