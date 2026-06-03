@@ -1,3 +1,6 @@
+---
+title: an american in paris
+---
 [[(7) musical]]
 [[urban melancholy]]
 [[(11) urban]]
