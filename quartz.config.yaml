@@ -141,7 +141,7 @@ plugins:
     options:
       folderClickBehavior: collapse
     layout:
-      position: right
+      position: left
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
@@ -162,7 +162,7 @@ plugins:
   - source: github:quartz-community/search
     enabled: true
     layout:
-      position: right
+      position: left
       priority: 10
       group: toolbar
       groupOptions:
