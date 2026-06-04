@@ -157,7 +157,7 @@ plugins:
       scale: 1.3
       fontSize: 0.8
     layout:
-      position: left
+      position: right
       priority: 10
   - source: github:quartz-community/search
     enabled: true
