@@ -1,4 +1,4 @@
 ---
 title: attention habitat 1.0
 ---
-<br></br><strong>enter the [[vault]]</strong>
+<br></br><strong>enter [[vault]]</strong>
