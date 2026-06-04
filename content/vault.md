@@ -12,24 +12,4 @@ from here you can:
 * search for your favorite movie, book, or show to see if we have similar tastes
 
 * search for a certain genre or use a random keyword and see what pops up
-	
-* leave a comment, opinion, recommendation
 </p>
-
-
-<script src="https://giscus.app/client.js"
-        data-repo="PaperEaterStudios/attention-habitat"
-        data-repo-id="R_kgDOSryr4w"
-        data-category="Show and tell"
-        data-category-id="DIC_kwDOSryr484C-TVG"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light_high_contrast"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
