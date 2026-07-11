@@ -1,7 +1,7 @@
 <p>
 this Quartz site was built from my personal Obsidian vault, which I created as a way to map the connections between my consumed pieces of media and their subsequent datapoints.
 
-i chose to collect and organize this data for the first physical iteration of my personal ethnography catalogue, [*Attention Habitat*](https://papereaterstudios.cargo.site).
+i chose to collect and organize this data for the first physical iteration of my personal ethnography catalogue, [*Attention Habitat*](https://archive.org/details/attention-habitat-1.0).
 <br></br>
 from here you can:
 
